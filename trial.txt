@@ -1,2 +1,2 @@
 This is a practise file.
-This file is changed in the remote to check in the local
+
