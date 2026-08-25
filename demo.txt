@@ -1,1 +1,2 @@
-Dev1 changed the code and ready t commit aand merge, This is to check Merge conflict.
+This is changed by the Dev2 after the Dev1 merged the code . This is to cehck merge conflict by Dev2
+This is resloved after MErgre conflict!!!!
